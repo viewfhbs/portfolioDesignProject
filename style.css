@@ -1,0 +1,22 @@
+body{
+    font-family: 'Merienda', cursive!important;
+}
+
+#main-content *.section-title {
+    font-family: 'Merienda', cursive!important;
+}
+
+.sec-text li {
+    font-size: 28px!important;
+    list-style: none!important;
+    text-align: right!important;
+    padding: 15px!important;
+    font-family: 'Merienda', cursive!important;
+}
+.sec-text h1, li {
+    text-align: center !important;
+    font-family: 'Merienda', cursive!important;
+}
+.feature-text h1, p {
+    font-family: 'Merienda', cursive!important;
+}
